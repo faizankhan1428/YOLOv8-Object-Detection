@@ -3,4 +3,5 @@ opencv-python-headless
 matplotlib
 pillow
 gradio
+
 This file lists all the Python libraries required to run the notebook, making it easy for others to set up the environment.
